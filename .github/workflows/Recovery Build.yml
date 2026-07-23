@@ -15,7 +15,7 @@ on:
         - 6.0
         required: true
         default: 9.0
- 9     DEVICE_TREE_URL:
+      DEVICE_TREE_URL:
         description: Device Tree URL
         required: true
         default: https://github.com/AzeiteBR12/twrp_device_motorola_malta_64
